@@ -35,7 +35,7 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 
 
 ##:rocket: youtube Tutorial
-
+- Money App with Getx Link: [Money](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - Valorant App Cubit App  Link: [Valo](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - Weather App by Provider Link: [Weather](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - cubit Movie Link: [Movie](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
