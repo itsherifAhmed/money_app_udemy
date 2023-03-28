@@ -38,7 +38,7 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 
 - Valorant App Cubit App  Link: [Valo](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - Weather App by Provider Link: [Weather](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
-- ubit Movie Link: [Movie](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- cubit Movie Link: [Movie](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - El Quran ElKareem App by GetX Link: [Quran](https://www.youtube.com/watch?v=Mb10ndQn3yQ&list=PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M)
 - Ahadith App by GetX Link: [Ahadith](https://www.youtube.com/watch?v=bHVremPtgNo&t=3668s&ab_channel=SecitDevelopers)
 - Youtube App by GetX Link: [youtube](https://www.youtube.com/watch?v=WlEgZKKd_xY&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=14)
@@ -70,7 +70,6 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 - [x] Deal With Getx
 - [x] Deal With Get_Storage
 - [x] Deal With Clean Arch
-- [x] 
 
 ------------------------------
 
@@ -78,7 +77,7 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 ## Other Flutter Projects 🔐
 - [Valorant app Udemy](https://github.com/itsherifAhmed/valorant_cubit_game_udemy)
 - [Weather App Udemy](https://github.com/itsherifAhmed/weather_app_udemy)
-- [Cubit Movie Udemy]([https://github.com/itsherifAhmed/screen_shot](https://github.com/itsherifAhmed/cubit_movie-udemy))
+- [Cubit Movie Udemy](https://github.com/itsherifAhmed/cubit_movie-udemy)
 - [Money App Udemy](https://github.com/itsherifAhmed/money_app_udemy)
 
 
