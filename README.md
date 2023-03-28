@@ -34,18 +34,11 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 
 
 
-<p><img src="assets/app_icon.png" /></p>
-<p align="center"><b>تطبيق المحفظه الالكترونيه</b></p>
-
-
-
-
-
-<p><img src="assets/money-bag.png" /></p>
-<p align="center"><b>Money App</b></p>
-
 ##:rocket: youtube Tutorial
 
+- Valorant App Cubit App  Link: [Valo](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- Weather App by Provider Link: [Weather](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
+- ubit Movie Link: [Movie](https://www.udemy.com/course/flutter-advanced-course-architectures-in-flutter/?referralCode=21E9E4CF86DE5607FEA1)
 - El Quran ElKareem App by GetX Link: [Quran](https://www.youtube.com/watch?v=Mb10ndQn3yQ&list=PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M)
 - Ahadith App by GetX Link: [Ahadith](https://www.youtube.com/watch?v=bHVremPtgNo&t=3668s&ab_channel=SecitDevelopers)
 - Youtube App by GetX Link: [youtube](https://www.youtube.com/watch?v=WlEgZKKd_xY&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=14)
@@ -66,19 +59,30 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 
 ## Benfit👻
 - [🖥] # Screens 🖥
-- [🆗]  HomeScreen
-- [🆗] Surah Screen
-- [🆗] Setting Screen
+- [🆗]  Splash Screen
+- [🆗]  Home Screen
+- [🆗] Top Up
+- [🆗] pay
+- [🆗] to whom
+- [🆗] Transactions Details
 --------------------------------
 - [🖥] # Deal With 🖥
-- [x] Deal With Shared Prefs
-- [x] Deal With rootBundle
-- [x] Deal With local json 
+- [x] Deal With Getx
+- [x] Deal With Get_Storage
+- [x] Deal With Clean Arch
+- [x] 
 
 ------------------------------
 
 
 ## Other Flutter Projects 🔐
+- [Valorant app Udemy](https://github.com/itsherifAhmed/valorant_cubit_game_udemy)
+- [Weather App Udemy](https://github.com/itsherifAhmed/weather_app_udemy)
+- [Cubit Movie Udemy]([https://github.com/itsherifAhmed/screen_shot](https://github.com/itsherifAhmed/cubit_movie-udemy))
+- [Money App Udemy](https://github.com/itsherifAhmed/money_app_udemy)
+
+
+
 - [face generator app](https://github.com/itsherifAhmed/face-generator)
 - [screen shot lock  ](https://github.com/itsherifAhmed/screen_shot)
 - [bg remover app](https://github.com/itsherifAhmed/bg-remover)
@@ -106,19 +110,19 @@ money_app_udemy app is open-source  app for Android & ios. It is built with Dart
 ## Snapshots
 
 
-| Splash Screen | homw screen Screen                        |
+| Splash Screen | home screen Screen                        |
 |------|-------------------------------------------|
-|<img src="snapshot/splash.jpg" width="400">| <img src="snapshot/home.jpg" width="400"> |
+|<img src="assets/splash.jpg" width="400">| <img src="assets/home.jpg" width="400"> |
 
 
-| drawer                                      | setting  Page                                |
+| top up                                      | pay  Page                                |
 |---------------------------------------------|----------------------------------------------|
-| <img src="snapshot/drawer.jpg" width="400"> | <img src="snapshot/setting.jpg" width="400"> |
+| <img src="assets/top up.jpg" width="400"> | <img src="assets/transactions.jpg" width="400"> |
 
 
-| View One                                     | View Two  Page                               |
+| to Whom                                    | No Transactions  Page                               |
 |----------------------------------------------|----------------------------------------------|
-| <img src="snapshot/viewone.jpg" width="400"> | <img src="snapshot/viewtwo.jpg" width="400"> |
+| <img src="assets/to whom.jpg" width="400"> | <img src="assets/no ransactions.jpg" width="400"> |
 
 
 
